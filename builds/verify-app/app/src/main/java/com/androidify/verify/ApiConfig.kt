@@ -9,6 +9,7 @@ object ApiConfig {
     const val BASE_URL: String = "https://dev-hub-paradise.lovable.app"
     const val SUPABASE_URL: String = "https://ycdhwzouwzwvgfocszoe.supabase.co"
     const val SUPABASE_PUBLISHABLE_KEY: String = "sb_publishable_YpLS0dCLRpShOSuwFDMq3Q_dPeNwGAF"
+    const val APP_KEY: String = "0f3685f7e10355186ceaab9840a5823e8bed"
 
     fun endpoint(path: String): String =
         BASE_URL.trimEnd('/') + "/" + path.trimStart('/')
