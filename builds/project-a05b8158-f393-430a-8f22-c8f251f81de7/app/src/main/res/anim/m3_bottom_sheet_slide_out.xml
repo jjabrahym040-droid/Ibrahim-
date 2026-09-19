@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+  <translate android:interpolator="@0x7f0c0007" android:duration="@0x7f0b001c" android:fromYDelta="0" android:toYDelta="0x19999a31">
+  </translate>
+  <alpha android:interpolator="@0x7f0c0007" android:duration="@0x7f0b001b" android:fromAlpha="1065353216" android:toAlpha="0">
+  </alpha>
+</set>

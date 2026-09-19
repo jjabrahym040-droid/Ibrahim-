@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item android:state_focused="true" android:color="@0x7f0603c1">
+  </item>
+  <item android:color="@0x7f0603c2" android:state_hovered="true">
+  </item>
+  <item android:state_enabled="false" android:color="@0x7f0603bf">
+  </item>
+  <item android:color="@0x7f0603be">
+  </item>
+</selector>

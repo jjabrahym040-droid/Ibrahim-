@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator android:interpolator="@0x10a000b" android:duration="150" android:valueFrom="0" android:valueTo="1065353216" android:propertyName="alpha">
+</objectAnimator>

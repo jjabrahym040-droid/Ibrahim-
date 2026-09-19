@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+  <selector>
+    <item android:state_enabled="true" android:state_pressed="true">
+      <set>
+        <objectAnimator android:duration="@0x7f0b0038" android:valueTo="@0x7f0702b7" android:valueType="0" android:propertyName="translationZ">
+        </objectAnimator>
+        <objectAnimator android:duration="0" android:valueTo="@0x7f070167" android:valueType="0" android:propertyName="elevation">
+        </objectAnimator>
+      </set>
+    </item>
+    <item android:state_enabled="true" android:state_hovered="true">
+      <set>
+        <objectAnimator android:duration="@0x7f0b0038" android:valueTo="@0x7f0702b6" android:valueType="0" android:propertyName="translationZ">
+        </objectAnimator>
+        <objectAnimator android:duration="0" android:valueTo="@0x7f070167" android:valueType="0" android:propertyName="elevation">
+        </objectAnimator>
+      </set>
+    </item>
+    <item android:state_focused="true" android:state_enabled="true">
+      <set>
+        <objectAnimator android:duration="@0x7f0b0038" android:valueTo="@0x7f0702b5" android:valueType="0" android:propertyName="translationZ">
+        </objectAnimator>
+        <objectAnimator android:duration="0" android:valueTo="@0x7f070167" android:valueType="0" android:propertyName="elevation">
+        </objectAnimator>
+      </set>
+    </item>
+    <item android:state_enabled="true">
+      <set>
+        <objectAnimator android:duration="@0x7f0b0038" android:valueTo="@0x7f0702b4" android:valueType="0" android:propertyName="translationZ" android:startDelay="@0x7f0b0037">
+        </objectAnimator>
+        <objectAnimator android:duration="0" android:valueTo="@0x7f070167" android:valueType="0" android:propertyName="elevation">
+        </objectAnimator>
+      </set>
+    </item>
+    <item>
+      <set>
+        <objectAnimator android:duration="0" android:valueTo="@0x7f0702b3" android:valueType="0" android:propertyName="translationZ">
+        </objectAnimator>
+        <objectAnimator android:duration="0" android:valueTo="@0x7f0702b2" android:valueType="0" android:propertyName="elevation">
+        </objectAnimator>
+      </set>
+    </item>
+  </selector>
+</set>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item android:state_selected="true" android:state_pressed="true" android:color="0x7f04012b" android:alpha="@0x7f0702ef">
+  </item>
+  <item android:state_focused="true" android:state_selected="true" android:color="0x7f040126" android:alpha="@0x7f0702ec">
+  </item>
+  <item android:state_selected="true" android:color="0x7f040126" android:alpha="@0x7f0702ed" android:state_hovered="true">
+  </item>
+  <item android:state_selected="true" android:color="0x7f040126" android:alpha="@0x7f0702eb">
+  </item>
+  <item android:state_checkable="true" android:state_pressed="true" android:color="0x7f040126" android:alpha="@0x7f0702ef">
+  </item>
+  <item android:state_checkable="false" android:state_pressed="true" android:color="0x7f04012b" android:alpha="@0x7f0702ee">
+  </item>
+  <item android:state_focused="true" android:color="0x7f04012b" android:alpha="@0x7f0702ec">
+  </item>
+  <item android:color="0x7f04012b" android:alpha="@0x7f0702ed" android:state_hovered="true">
+  </item>
+  <item android:color="0x7f04012b" android:alpha="@0x7f0702eb">
+  </item>
+</selector>

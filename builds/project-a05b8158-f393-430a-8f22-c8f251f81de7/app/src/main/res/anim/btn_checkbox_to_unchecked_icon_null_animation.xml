@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+  <set android:ordering="1">
+    <objectAnimator android:interpolator="@0x7f0c0001" android:duration="166" android:valueFrom="1045220557" android:valueTo="1043878380" android:propertyName="scaleX">
+    </objectAnimator>
+    <objectAnimator android:interpolator="@0x7f0c0001" android:duration="333" android:valueFrom="1043878380" android:valueTo="1045220557" android:propertyName="scaleX">
+    </objectAnimator>
+  </set>
+  <set android:ordering="1">
+    <objectAnimator android:interpolator="@0x7f0c0001" android:duration="166" android:valueFrom="1045220557" android:valueTo="1043878380" android:propertyName="scaleY">
+    </objectAnimator>
+    <objectAnimator android:interpolator="@0x7f0c0001" android:duration="333" android:valueFrom="1043878380" android:valueTo="1045220557" android:propertyName="scaleY">
+    </objectAnimator>
+  </set>
+</set>

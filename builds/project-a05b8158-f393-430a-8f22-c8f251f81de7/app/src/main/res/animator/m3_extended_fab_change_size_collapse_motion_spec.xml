@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+  <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403e4" android:startOffset="0" android:propertyName="width">
+  </objectAnimator>
+  <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403e4" android:startOffset="0" android:propertyName="height">
+  </objectAnimator>
+  <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403e4" android:startOffset="0" android:propertyName="paddingStart">
+  </objectAnimator>
+  <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403e4" android:startOffset="0" android:propertyName="paddingEnd">
+  </objectAnimator>
+  <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403e6" android:startOffset="0x7f0403e5" android:propertyName="labelOpacity">
+  </objectAnimator>
+</set>

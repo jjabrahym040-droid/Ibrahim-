@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item android:state_enabled="true" android:state_hovered="true">
+    <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403e4" android:valueTo="@0x7f0700fc" android:valueType="0" android:propertyName="translationZ" android:startDelay="0x7f0403e1">
+    </objectAnimator>
+  </item>
+  <item android:state_enabled="true" android:state_dragged="true">
+    <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403e4" android:valueTo="@0x7f0700f6" android:valueType="0" android:propertyName="translationZ" android:startDelay="0x7f0403e1">
+    </objectAnimator>
+  </item>
+  <item android:state_enabled="true">
+    <objectAnimator android:interpolator="0x7f0403ee" android:duration="0x7f0403de" android:valueTo="0x1" android:valueType="0" android:propertyName="translationZ">
+    </objectAnimator>
+  </item>
+  <item>
+    <objectAnimator android:duration="0" android:valueTo="0x1" android:valueType="0" android:propertyName="translationZ">
+    </objectAnimator>
+  </item>
+</selector>

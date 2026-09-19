@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item android:state_checked="true" android:color="0x7f040126">
+  </item>
+  <item android:color="0x7f04012b">
+  </item>
+</selector>

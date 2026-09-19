@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+  <objectAnimator android:interpolator="@0x7f0c000e" android:duration="200" android:startOffset="0" android:propertyName="opacity">
+  </objectAnimator>
+  <objectAnimator android:interpolator="@0x7f0c000e" android:duration="200" android:startOffset="0" android:propertyName="scale">
+  </objectAnimator>
+  <objectAnimator android:interpolator="@0x7f0c000f" android:duration="0" android:startOffset="200" android:propertyName="iconScale">
+  </objectAnimator>
+</set>

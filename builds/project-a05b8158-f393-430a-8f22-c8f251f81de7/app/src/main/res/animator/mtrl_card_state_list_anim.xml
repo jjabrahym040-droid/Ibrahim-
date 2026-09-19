@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+  <item android:state_enabled="true" android:state_dragged="true">
+    <set>
+      <objectAnimator android:interpolator="@0x7f0c000f" android:duration="@0x7f0b003d" android:valueTo="@0x7f0703e7" android:valueType="0" android:propertyName="translationZ" android:startDelay="@0x7f0b003c">
+      </objectAnimator>
+    </set>
+  </item>
+  <item android:state_enabled="true">
+    <set>
+      <objectAnimator android:interpolator="@0x7f01002b" android:duration="@0x7f0b003d" android:valueTo="0x1" android:valueType="0" android:propertyName="translationZ">
+      </objectAnimator>
+    </set>
+  </item>
+</selector>

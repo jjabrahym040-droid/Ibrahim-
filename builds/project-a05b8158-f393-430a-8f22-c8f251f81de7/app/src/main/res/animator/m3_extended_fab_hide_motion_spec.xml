@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+  <objectAnimator android:interpolator="0x7f0403ec" android:duration="0x7f0403e7" android:startOffset="0" android:valueFrom="1065353216" android:valueTo="0" android:valueType="0" android:propertyName="opacity">
+  </objectAnimator>
+  <objectAnimator android:interpolator="0x7f0403ec" android:duration="0x7f0403e1" android:startOffset="0" android:valueFrom="1065353216" android:valueTo="1053609165" android:valueType="0" android:propertyName="scale">
+  </objectAnimator>
+</set>

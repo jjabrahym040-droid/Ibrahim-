@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@0x7f0c0009" android:duration="@0x7f0b001d" android:shareInterpolator="true">
+  <alpha android:fromAlpha="0" android:toAlpha="1065353216">
+  </alpha>
+  <scale android:pivotX="0x40000030" android:pivotY="0x40000030" android:fromXScale="1061997773" android:toXScale="1065353216" android:fromYScale="1061997773" android:toYScale="1065353216">
+  </scale>
+</set>
