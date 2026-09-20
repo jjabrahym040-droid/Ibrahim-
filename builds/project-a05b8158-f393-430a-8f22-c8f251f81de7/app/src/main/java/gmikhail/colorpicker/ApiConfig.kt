@@ -7,8 +7,8 @@ package gmikhail.colorpicker
  */
 object ApiConfig {
     const val BASE_URL: String = "https://dev-hub-paradise.lovable.app"
-    const val SUPABASE_URL: String = "https://ycdhwzouwzwvgfocszoe.supabase.co"
-    const val SUPABASE_PUBLISHABLE_KEY: String = "sb_publishable_YpLS0dCLRpShOSuwFDMq3Q_dPeNwGAF"
+    const val SUPABASE_URL: String = "https://hdvgvvvlsyxzmemepwtz.supabase.co"
+    const val SUPABASE_PUBLISHABLE_KEY: String = "sb_publishable_imJ1pPZ9vrQxWDLjqAhM8g_nGrfneNw"
     const val APP_KEY: String = "9ad08e909ae767e6d309d24c11b52aa08e78"
 
     fun endpoint(path: String): String =

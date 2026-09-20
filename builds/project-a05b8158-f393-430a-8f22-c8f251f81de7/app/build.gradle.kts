@@ -11,8 +11,13 @@ android {
         applicationId = "gmikhail.colorpicker"
         minSdk = 32
         targetSdk = 37
-        versionCode = 109
-        versionName = "11.1.1"
+        versionCode = 1
+        versionName = "1.0"
+        buildConfigField("String", "SERVER_BASE_URL", "\"https://dev-hub-paradise.lovable.app\"")
+    }
+
+    buildFeatures {
+        buildConfig = true
     }
 
     buildTypes {
@@ -20,4 +25,19 @@ android {
             isMinifyEnabled = false
         }
     }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+}
+
+dependencies {
+    implementation("androidx.core:core-ktx:1.13.1")
+    implementation("androidx.appcompat:appcompat:1.7.0")
+    implementation("com.google.android.material:material:1.12.0")
 }
